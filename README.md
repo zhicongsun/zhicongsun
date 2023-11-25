@@ -4,6 +4,8 @@
 - 💬 Contact me by: zhicongsun_cs@163.com
 - 😄 Personal Web: http://zhicongsun.github.io
 
+### News
+- 🌱 13 Nov 2023: One of my paper was published: Zhicong Sun, Yulong Ding, Shuang-Hua Yang, “Contradictions Identification of Safety and Security Requirements for Industrial Cyber-Physical Systems”, IEEE Internet of Things Journal, 13 November 2023, [Doi: 10.1109/JIOT.2023.3332128. ](https://ieeexplore.ieee.org/document/10314997)
 <!--
 **zhicongsun/zhicongsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
