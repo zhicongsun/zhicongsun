@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my Github 👋
+- 🔭 I’m currently a PhD student in PolyU
+- 🌱 Research interest: Cyber-Physical systems, safety and security, 3D reconstruction
+- 💬 Contact me by: zhicongsun_cs@163.com
+- 😄 Personal Web: http://zhicongsun.github.io
 
 <!--
 **zhicongsun/zhicongsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
