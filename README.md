@@ -1,4 +1,4 @@
-### Welcome to my Github 👋
+### Welcome to Zeeco's Github 👋
 - 🔭 I’m currently a PhD student in PolyU
 - 🌱 Research interest: Cyber-Physical systems, safety and security, 3D reconstruction
 - 💬 Contact me by: zhicongsun_cs@163.com
