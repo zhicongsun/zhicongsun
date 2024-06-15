@@ -7,7 +7,6 @@
 ### News
 - 🌱 14 June 2024: One of my survey paper was published: Zhicong Sun, Guang Chen, Yulong Ding, Shuang-Hua Yang, “Joint safety and security risk analysis in industrial cyber‐physicalsystems: A survey”, IET Cyber-Physical Systems: Theory & Applications, 14 June 2024, [Doi: 10.1049/cps2.12095. ](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cps2.12095)
 - 🌱 13 Nov 2023: One of my paper was published: Zhicong Sun, Yulong Ding, Shuang-Hua Yang, “Contradictions Identification of Safety and Security Requirements for Industrial Cyber-Physical Systems”, IEEE Internet of Things Journal, 13 November 2023, [Doi: 10.1109/JIOT.2023.3332128. ](https://ieeexplore.ieee.org/document/10314997)
-- 
 <!--
 **zhicongsun/zhicongsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
