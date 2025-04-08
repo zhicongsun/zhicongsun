@@ -1,5 +1,5 @@
 ### Welcome to Zeeco's Github 👋
-- 🔭 I’m currently a PhD student at PolyU
+- 🔭 I’m currently a PhD candidate at PolyU
 - 🌱 Research interest: Cyber-Physical systems, AI for Robotics Perception
 - 💬 Contact me by: zhicongsun_cs@163.com
 - 😄 Homepage: http://zhicongsun.github.io
